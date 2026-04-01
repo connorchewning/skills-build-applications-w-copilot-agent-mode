@@ -2,12 +2,14 @@
 
 # Virtual Environment
 venv
+octofit-tracker/backend/venv/
 
 # octofit tracker app
 # octfit-tracker
 
 # React node_modules
 node_modules
+octofit-tracker/frontend/node_modules/
 /.pnp
 .pnp.js
 
